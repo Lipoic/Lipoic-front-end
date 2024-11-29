@@ -23,7 +23,7 @@
     "vue-router": "4.1.6"
   },
   "devDependencies": {
-    "@types/node": "18.11.19",
+    "@types/node": "18.16.17",
     "@typescript-eslint/eslint-plugin": "5.51.0",
     "@typescript-eslint/parser": "5.51.0",
     "@vitejs/plugin-vue": "4.0.0",
